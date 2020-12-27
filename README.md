@@ -10,3 +10,6 @@ requests
 BeautifulSoup
 pandas
 time
+
+https://www.youtube.com/watch?v=s7v8mIFMFQ0
+https://twitter.com/kalemkiri/status/1328364170547441664
