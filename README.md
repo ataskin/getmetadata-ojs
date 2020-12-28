@@ -1,4 +1,4 @@
-# getmetadata-ojs
+# Get Metadata OJS > Python
 
 The code collect metadata from an journal site that using OJS (Open Journal Systems).
 The data is written to an existing excel file without overwriting data.
